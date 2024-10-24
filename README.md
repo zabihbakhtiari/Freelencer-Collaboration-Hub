@@ -19,7 +19,7 @@ To set up the Freelancer Collaboration Hub locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/freelancer-collaboration-hub.git
+   git clone git@github.com:zabihbakhtiari/Freelencer-Collaboration-Hub.git
    ```
 
 2. Navigate to the project directory:
@@ -72,7 +72,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any questions or concerns, please contact [Your Name] at [your.email@example.com].
+For any questions or concerns, please contact [Your Name] at [zbeahh@gmail.com].
 
 ## Acknowledgements
 - [List any acknowledgements, libraries, or resources that you used or were inspired by]
